@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[12]:
-
-
 #question 2: read csv and calculate the stats (mean, median, std)
 import pandas as pd
 
